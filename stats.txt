@@ -1,0 +1,8 @@
+Jogos empatados/ganhos/perdidos:1/0/4
+Dinheiro:85$
+Jogos empatados/ganhos/perdidos:0/0/5
+Dinheiro:65$
+Jogos empatados/ganhos/perdidos:0/0/5
+Dinheiro:20$
+Casa:
+Balanço monetário:390$
